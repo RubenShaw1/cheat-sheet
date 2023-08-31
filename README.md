@@ -6,3 +6,5 @@
 [Bash](bash.md)
 
 [Markdown](markdown.md)
+
+[Python](python.md)
