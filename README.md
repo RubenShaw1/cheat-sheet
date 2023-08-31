@@ -1,10 +1,12 @@
 # Cheat sheet
-[Link](https://s.rubenshaw.com/cheat-sheet)
+[Shortened link](https://s.rubenshaw.com/cheat-sheet)
 
-[Powershell](powershell.md)
+---
 
-[Bash](bash.md)
+* [Powershell](powershell.md)
 
-[Markdown](markdown.md)
+* [Bash](bash.md)
 
-[Python](python.md)
+* [Markdown](markdown.md)
+
+* [Python](python.md)
